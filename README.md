@@ -1,5 +1,7 @@
 # Aprendizaje por refuerzo en la planificación de trayectorias de un brazo robótico
 
+(../master/videos/animation_modelo1.gif)
+
 Este código permite entrenar un brazo robótico en la planificación de trayectorias mediante algoritmos de aprendizaje por refuerzo. Por defecto, utiliza los algoritmos **PPO** y **SAC** de la librería Stable Baselines3, pero el código se puede adaptar para utilizar cualquier otro algoritmo de esta librería.
 
 El robot que se utiliza es **[Franka Emika Panda](https://www.franka.de/)** y se simula con el motor de física **PyBullet**; los entornos están integrados con **OpenAI Gym**.
