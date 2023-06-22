@@ -1,4 +1,4 @@
-# Aprendizaje por refuerzo en la planificación de trayectorias de un brazo robótico
+# Planificación de trayectorias de un brazo robótico mediante aprendizaje por refuerzo
 
 Este código permite entrenar un brazo robótico en la planificación de trayectorias mediante algoritmos de aprendizaje por refuerzo. Por defecto, utiliza los algoritmos **PPO** y **SAC** de la librería Stable Baselines3, pero el código se puede adaptar para utilizar cualquier otro algoritmo de esta librería.
 
